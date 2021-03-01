@@ -1,0 +1,55 @@
+PING upm.edu.my (211.25.98.234): 222 data bytes
+230 bytes from 211.25.98.234: icmp_seq=0 ttl=48 time=82.373 ms
+230 bytes from 211.25.98.234: icmp_seq=1 ttl=48 time=102.523 ms
+230 bytes from 211.25.98.234: icmp_seq=2 ttl=48 time=83.953 ms
+230 bytes from 211.25.98.234: icmp_seq=3 ttl=48 time=82.715 ms
+230 bytes from 211.25.98.234: icmp_seq=4 ttl=48 time=84.185 ms
+230 bytes from 211.25.98.234: icmp_seq=5 ttl=48 time=84.405 ms
+230 bytes from 211.25.98.234: icmp_seq=6 ttl=48 time=84.355 ms
+230 bytes from 211.25.98.234: icmp_seq=7 ttl=48 time=86.649 ms
+230 bytes from 211.25.98.234: icmp_seq=8 ttl=48 time=84.230 ms
+230 bytes from 211.25.98.234: icmp_seq=9 ttl=48 time=84.306 ms
+230 bytes from 211.25.98.234: icmp_seq=10 ttl=48 time=83.804 ms
+230 bytes from 211.25.98.234: icmp_seq=11 ttl=48 time=83.676 ms
+230 bytes from 211.25.98.234: icmp_seq=12 ttl=48 time=193.202 ms
+230 bytes from 211.25.98.234: icmp_seq=13 ttl=48 time=89.905 ms
+230 bytes from 211.25.98.234: icmp_seq=14 ttl=48 time=87.272 ms
+230 bytes from 211.25.98.234: icmp_seq=15 ttl=48 time=109.232 ms
+230 bytes from 211.25.98.234: icmp_seq=16 ttl=48 time=86.299 ms
+230 bytes from 211.25.98.234: icmp_seq=17 ttl=48 time=84.650 ms
+230 bytes from 211.25.98.234: icmp_seq=18 ttl=48 time=83.690 ms
+230 bytes from 211.25.98.234: icmp_seq=19 ttl=48 time=84.450 ms
+230 bytes from 211.25.98.234: icmp_seq=20 ttl=48 time=83.726 ms
+230 bytes from 211.25.98.234: icmp_seq=21 ttl=48 time=87.751 ms
+230 bytes from 211.25.98.234: icmp_seq=22 ttl=48 time=85.095 ms
+230 bytes from 211.25.98.234: icmp_seq=23 ttl=48 time=84.345 ms
+230 bytes from 211.25.98.234: icmp_seq=24 ttl=48 time=89.854 ms
+230 bytes from 211.25.98.234: icmp_seq=25 ttl=48 time=84.586 ms
+230 bytes from 211.25.98.234: icmp_seq=26 ttl=48 time=82.825 ms
+230 bytes from 211.25.98.234: icmp_seq=27 ttl=48 time=82.877 ms
+230 bytes from 211.25.98.234: icmp_seq=28 ttl=48 time=84.663 ms
+230 bytes from 211.25.98.234: icmp_seq=29 ttl=48 time=85.032 ms
+230 bytes from 211.25.98.234: icmp_seq=30 ttl=48 time=84.112 ms
+230 bytes from 211.25.98.234: icmp_seq=31 ttl=48 time=84.597 ms
+230 bytes from 211.25.98.234: icmp_seq=32 ttl=48 time=82.420 ms
+230 bytes from 211.25.98.234: icmp_seq=33 ttl=48 time=87.479 ms
+230 bytes from 211.25.98.234: icmp_seq=34 ttl=48 time=86.548 ms
+230 bytes from 211.25.98.234: icmp_seq=35 ttl=48 time=85.075 ms
+230 bytes from 211.25.98.234: icmp_seq=36 ttl=48 time=83.976 ms
+230 bytes from 211.25.98.234: icmp_seq=37 ttl=48 time=83.685 ms
+230 bytes from 211.25.98.234: icmp_seq=38 ttl=48 time=84.216 ms
+230 bytes from 211.25.98.234: icmp_seq=39 ttl=48 time=84.361 ms
+230 bytes from 211.25.98.234: icmp_seq=40 ttl=48 time=84.145 ms
+230 bytes from 211.25.98.234: icmp_seq=41 ttl=48 time=109.835 ms
+230 bytes from 211.25.98.234: icmp_seq=42 ttl=48 time=86.522 ms
+230 bytes from 211.25.98.234: icmp_seq=43 ttl=48 time=86.063 ms
+230 bytes from 211.25.98.234: icmp_seq=44 ttl=48 time=98.645 ms
+230 bytes from 211.25.98.234: icmp_seq=45 ttl=48 time=83.666 ms
+230 bytes from 211.25.98.234: icmp_seq=46 ttl=48 time=85.093 ms
+230 bytes from 211.25.98.234: icmp_seq=47 ttl=48 time=85.008 ms
+230 bytes from 211.25.98.234: icmp_seq=48 ttl=48 time=88.088 ms
+230 bytes from 211.25.98.234: icmp_seq=49 ttl=48 time=87.263 ms
+
+--- upm.edu.my ping statistics ---
+50 packets transmitted, 50 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 82.373/88.748/193.202/16.025 ms
